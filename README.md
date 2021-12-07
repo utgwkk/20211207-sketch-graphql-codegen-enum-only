@@ -1,0 +1,1 @@
+# 20211207-sketch-graphql-codegen-enum-only
