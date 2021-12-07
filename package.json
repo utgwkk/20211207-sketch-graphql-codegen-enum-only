@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "ssh://git@github.com/utgwkk/20211207-sketch-graphql-codegen-enum-only.git",
   "author": "utgwkk <utagawakiki@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.0.1"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^2.3.0",
+    "@graphql-codegen/typescript": "^2.4.1"
+  }
 }
